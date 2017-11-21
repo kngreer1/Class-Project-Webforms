@@ -37,8 +37,6 @@
             <SortedDescendingCellStyle BackColor="#FFFDF8" />
             <SortedDescendingHeaderStyle BackColor="#6F8DAE" />
         </asp:GridView>
-        <br />
-        <a href="Admin_Home.aspx">Back to home</a>
     </form>
 </body>
 </html>

@@ -1,0 +1,12 @@
+F:\CIS\CIS 340\EX\Greer_P4\Greer_P4\obj\Debug\Greer_P4.csprojResolveAssemblyReference.cache
+E:\CIS\CIS 340\EX\Greer_P4\Greer_P4\obj\Debug\Greer_P4.csprojResolveAssemblyReference.cache
+E:\CIS\CIS 340\EX\Greer_P4\Greer_P4\bin\zz.dll.config
+E:\CIS\CIS 340\EX\Greer_P4\Greer_P4\bin\zz.dll
+E:\CIS\CIS 340\EX\Greer_P4\Greer_P4\bin\zz.pdb
+E:\CIS\CIS 340\EX\Greer_P4\Greer_P4\obj\Debug\zz.dll
+E:\CIS\CIS 340\EX\Greer_P4\Greer_P4\obj\Debug\zz.pdb
+F:\CIS\CIS 340\EX\Greer_P4\Greer_P4\bin\zz.dll.config
+F:\CIS\CIS 340\EX\Greer_P4\Greer_P4\bin\zz.dll
+F:\CIS\CIS 340\EX\Greer_P4\Greer_P4\bin\zz.pdb
+F:\CIS\CIS 340\EX\Greer_P4\Greer_P4\obj\Debug\zz.dll
+F:\CIS\CIS 340\EX\Greer_P4\Greer_P4\obj\Debug\zz.pdb

@@ -34,8 +34,6 @@
             <PagerStyle BackColor="#284775" ForeColor="White" HorizontalAlign="Center" />
             <RowStyle BackColor="#F7F6F3" ForeColor="#333333" />
         </asp:DetailsView>
-         <br />
-        <a href="Admin_Home.aspx">Back to home</a>
     </form>
 </body>
 </html>
